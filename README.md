@@ -64,7 +64,7 @@ With deep expertise in infrastructure, cloud, and developer workflows, I help or
 ## 📞 Hire Me
 
 📧 **sharma.akash0109@gmail.com**  
-🌐 [LinkedIn](www.linkedin.com/in/akash-sharma-141616b5) • [GitHub](https://github.com/akki0109)
+🌐 [LinkedIn](https://www.linkedin.com/in/akash-sharma-141616b5) • [GitHub](https://github.com/akki0109)
 
 If you're looking for a consultant to:
 - Build training labs for your team or product
